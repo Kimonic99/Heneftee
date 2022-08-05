@@ -15,4 +15,5 @@ npx hardhat help
 ```
 
 
-Contract Address: 0x2b9f6e9e71c334990540451221e4e34d185bc27a
+Contract Address: 0x2b9f6e9e71c334990540451221e4e34d185bc27a <br> <hr>
+Link to my live project here https://nft-starter-project.kimonic99.repl.co/
